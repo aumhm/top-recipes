@@ -2,4 +2,6 @@
 
 First project from The Odin Project
 
-Simple recipe website to tackle html structure
+Recipe website to tackle simple html structure.
+
+Added a backlink to home at the end of each recipe page.
