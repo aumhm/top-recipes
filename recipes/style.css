@@ -1,3 +1,38 @@
 body {
-  background-color: #36475C;
+  background-color: #586878;
+}
+
+h1 {
+  font-family: "Fantasque Sans Mono", Garamond, Georgia, Arial;
+  font-weight: 800;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline;
+  color: #C18D34;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+h3 {
+  font-family: "Iosevka Comfy", Garamond, Georgia, Aria;
+  font-weight: 400;
+  font-size: 28px;
+  color: #00B0BC;
+}
+
+p,
+li {
+  font-size: 18px;
+  color: #C1C7CC;
+  text-decoration: none;
+  font-family: Cantarell, Garamond, Georgia, Aria;
 }
