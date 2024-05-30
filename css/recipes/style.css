@@ -47,5 +47,18 @@ li {
 }
 
 .footer-nav {
-  justify-items: center;
+  text-align: center;
+}
+
+.footer-nav a {
+  padding: 6px;
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px dashed white;
+}
+
+.footer-nav a:hover {
+  color: yellow;
+  border-bottom: 2px dashed yellow;
 }
