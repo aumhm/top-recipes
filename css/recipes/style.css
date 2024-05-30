@@ -16,10 +16,7 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin: 60px auto;
 }
 
 .main-container {
@@ -37,6 +34,7 @@ h3 {
   font-size: 28px;
   color: #00B0BC;
 }
+
 
 p,
 li {
