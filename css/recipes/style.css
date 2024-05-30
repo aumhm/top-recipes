@@ -1,5 +1,7 @@
 body {
   background-color: #586878;
+  width: 850px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -16,7 +18,7 @@ img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 60px auto;
+  margin: 30px auto 50px;
 }
 
 .main-container {
@@ -24,15 +26,16 @@ img {
 }
 
 .sub-container {
-  margin-left: 7%;
-  margin-right: 7%;
+  margin: 0 7% 52px;
 }
+
 
 h3 {
   font-family: "Iosevka Comfy", Garamond, Georgia, Aria;
   font-weight: 400;
   font-size: 28px;
   color: #99E6B3;
+  text-align: center;
 }
 
 
