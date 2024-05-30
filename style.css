@@ -9,12 +9,27 @@ h1 {
   text-align: center;
   text-decoration: underline;
   color: #F9CB0F;
+  margin-bottom: 60px;
 }
 
 .introduction-cont {
   font-size: 24px;
   color: #D3E4F1;
   padding: 0 10%;
+}
+
+.introduction-cont p,
+.recipe {
+  font-family: Cantarell, Garamond, Georgia, Aria;
+}
+
+.recipes-cont {
+  padding: 20px 10%;
+}
+
+.list-recipe-title {
+  color: #99E6B3;
+  font-size: 32px;
 }
 
 
@@ -25,7 +40,7 @@ h1 {
 }
 
 .recipe {
-  font-size: 22px;
+  font-size: 24px;
   color: #D3E4F1;
   text-decoration: none;
 }
