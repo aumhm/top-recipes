@@ -8,7 +8,13 @@ h1 {
   font-size: 50px;
   text-align: center;
   text-decoration: underline;
-  color: #C18D34;
+  color: #F9CB0F;
+}
+
+.introduction-cont {
+  font-size: 24px;
+  color: #D3E4F1;
+  padding: 0 10%;
 }
 
 
@@ -20,7 +26,7 @@ h1 {
 
 .recipe {
   font-size: 22px;
-  color: #C1C7CC;
+  color: #D3E4F1;
   text-decoration: none;
 }
 
